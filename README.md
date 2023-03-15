@@ -15,7 +15,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![screen](https://github.com/coraliepf/QR-code-component/blob/71cf4577a3dc05fd0e63b09ed764337b32c6de33/result.png)
+![screen](https://github.com/coraliepf/FAQ-accordion-card/blob/be986dd3ad6fef14aa25b69630622c8f22fcea8f/result.png)
 
 ### Links
 
