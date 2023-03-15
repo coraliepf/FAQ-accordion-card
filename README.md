@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card challenge
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).
 
 ## Table of contents
 
@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [coraliepf.github.io/QR-code-component/](https://coraliepf.github.io/FAQ-accordion-card/)
+- Solution URL: [coraliepf.github.io/FAQ-accordion-card/](https://coraliepf.github.io/FAQ-accordion-card/)
 
 ## My process
 
